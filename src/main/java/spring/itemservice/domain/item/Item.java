@@ -1,4 +1,4 @@
-package hello.itemservice.domain.item;
+package spring.itemservice.domain.item;
 
 import lombok.Data;
 
